@@ -1,0 +1,39 @@
+.recent {
+  height: 1000px;
+}
+.carou-g {
+  width: 450px;
+  height: 600px;
+}
+/* 
+div {
+  border: 2px solid red;
+} */
+.movingcon {
+  text-align: center;
+}
+#carouselExampleIndicators {
+  display: inline-block;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  width: 450px;
+  height: 600px;
+}
+.glr_34 {
+  width: 300px;
+  height: 400px;
+  margin-left: 40px;
+}
+.glr_11 {
+  width: 400px;
+  height: 400px;
+  margin-left: 40px;
+}
+.you_t {
+  display: inline-block;
+  text-align: center;
+  margin-top: 70px;
+}
+.apc_poem {
+  margin-top: 70px;
+}
